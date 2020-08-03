@@ -114,7 +114,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 12
+  controlID: 33
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 70
+  controlID: 13
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 71
+  controlID: 14
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -184,8 +184,8 @@ MonoBehaviour:
     y: 0
     width: 247
     height: 354
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 224}
+  m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -331,7 +331,7 @@ MonoBehaviour:
       y: 17
       width: 579
       height: 317
-    m_Scale: {x: 0.2934863, y: 0.2934863}
+    m_Scale: {x: 0.29148513, y: 0.29148513}
     m_Translation: {x: 289.5, y: 158.5}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -339,10 +339,10 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -986.4174
-      y: -540.05927
-      width: 1972.8348
-      height: 1080.1185
+      x: -993.1896
+      y: -543.767
+      width: 1986.3792
+      height: 1087.534
     m_MinimalGUI: 1
   m_defaultScale: 0.12382813
   m_TargetTexture: {fileID: 0}
@@ -381,7 +381,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: fc2a0000
+      m_SelectedIDs: 7e270000
       m_LastClickedID: 0
       m_ExpandedIDs: d6fbffff
       m_RenameOverlay:
@@ -551,20 +551,21 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Jonathan\Desktop\Programming Test\02 - CardProject
+  m_LastProjectPath: C:\Users\Jonathan\Desktop\Programming Test\Programming Test\02
+    - CardProject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 12}
-    m_SelectedIDs: 16260000
-    m_LastClickedID: 9750
-    m_ExpandedIDs: 000000001626000042260000ac2600009027000000ca9a3b
+    m_SelectedIDs: 40260000
+    m_LastClickedID: 9792
+    m_ExpandedIDs: 000000001426000040260000aa2600009027000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -592,7 +593,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001626000042260000ac26000090270000
+    m_ExpandedIDs: 000000001426000040260000aa26000090270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
