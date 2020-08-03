@@ -1,0 +1,5 @@
+The timer that uses the DeltaTime always has a value slightly larger than the Coroutine.
+This is because Yield WaitForSeconds is only checked every run through and is therefore less precise.
+
+For example:
+If 0.99 seconds have passed since the editor was started and the next run through takes 0.02 seconds, the coroutine is not checked after 1 second but after 1.01 seconds. Since the other timer uses DeltaTime, it does contains the 0.01 seconds resulting in two different values: 1 and 1.01. 

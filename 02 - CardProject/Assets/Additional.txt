@@ -1,0 +1,5 @@
+My core system can handle such additions without changing the written code. However, implementing such additions requires to add some lines of code: 
+
+1. Expand the UICardInfo with the new information 
+2. Reference the new UI Element in the UICard ...
+3. ... and assign the given information using DisplayInfo()
